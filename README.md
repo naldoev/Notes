@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src="https://github.com/naldoev/Notes/blob/main/assets/design.png?raw=true" width="90%" />
+  <img alt="dev.finances" title="dev.finances" src="https://github.com/naldoev/Notes/blob/main/assets/design.png?raw=true" />
 </h1>
 
  
@@ -33,12 +33,20 @@ MyNotes foi desenvolvido com React Native e Async Storage :construction: Aplicat
 - `Funcionalidade 6`: Excluir notas
 
 ## 📱 Design
-![image](https://user-images.githubusercontent.com/33455461/169938587-d02fccbb-817f-43b5-8f00-6981d399e6ba.png)
+![image](https://raw.githubusercontent.com/naldoev/Notes/main/assets/design1.jpg)
+![image](https://raw.githubusercontent.com/naldoev/Notes/main/assets/design2.jpg)
+![image](https://raw.githubusercontent.com/naldoev/Notes/main/assets/design3.jpg)
 
-![video](https://github.com/naldoev/Notes/blob/3e664e5a17107b8e9f0e996ca0e355aefbcb5514/assets/vid1.mp4)
+https://raw.githubusercontent.com/naldoev/Notes/main/assets/vid1.mp4
 
 ## Video 🎥📹
-[Youtube](https://www.youtube.com/shorts/Yamw7hSzYsk](https://youtu.be/auulKKV2xNc)
+https://www.youtube.com/watch?v=auulKKV2xNc
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+
+## 🛠️ Colaborador
+[<img src="https://avatars.githubusercontent.com/u/70446822?v=4" width=115><br><sub>João Victor Barbosa</sub>](https://github.com/joaovictor-desenvolvedor) 
+
+## 🔸 Professor
+[<img src="https://avatars.githubusercontent.com/u/2992209?v=4" width=115><br><sub>Abimael Sérgio</sub>](https://github.com/abimaelrsergio) 
