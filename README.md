@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/naldoev/Notes/main/assets/vid1.mp4
 https://www.youtube.com/watch?v=auulKKV2xNc
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src](https://github.com/naldoev/Notes).
 
 ## 🛠️ Colaborador
 [<img src="https://avatars.githubusercontent.com/u/70446822?v=4" width=115><br><sub>João Victor Barbosa</sub>](https://github.com/joaovictor-desenvolvedor) 
