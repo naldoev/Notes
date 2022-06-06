@@ -15,7 +15,7 @@
 </p>
 
 
-## 🚀 Tecnologias
+## ✔️ Tecnologias
 
 MyNotes foi desenvolvido com React Native e Async Storage :construction: Aplicativo em construção :construction:
 
@@ -38,4 +38,7 @@ MyNotes foi desenvolvido com React Native e Async Storage :construction: Aplicat
 ![video](https://github.com/naldoev/Notes/blob/3e664e5a17107b8e9f0e996ca0e355aefbcb5514/assets/vid1.mp4)
 
 ## Video 🎥📹
-[Youtube](https://www.youtube.com/shorts/Yamw7hSzYsk)
+[Youtube](https://www.youtube.com/shorts/Yamw7hSzYsk](https://youtu.be/auulKKV2xNc)
+
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
