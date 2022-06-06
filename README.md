@@ -9,9 +9,8 @@
 </p>
 
 <br>
-https://github.com/naldoev/Notes/blob/main/assets/vid1.mp4?raw=true
+
 https://github.com/naldoev/Notes/raw/main/assets/vid1.mp4
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 ## 🚀 Tecnologias
