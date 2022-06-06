@@ -24,7 +24,7 @@ MyNotes foi desenvolvido com React Native e Async Storage :construction: Aplicat
 <img align="left" width="50" height="50" src="https://github.com/naldoev/Notes/raw/main/app/imagens/246x0w.png?raw=true">O MyNotes é um aplicativo simples, rápido, intuitivo e moderno que possibilita aos seus usuários criar, salvar, atualizar e deletar notas, a qualquer momento.
 
 
-## :hammer: Funcionalidades do app
+## :hammer: Funcionalidades
 - `Funcionalidade 1`: Cadastrar nome do usuário em Async Storage
 - `Funcionalidade 2`: Exibir notas
 - `Funcionalidade 3`: Criar novas notas
